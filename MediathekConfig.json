@@ -8,7 +8,7 @@
 	"sourceUrl": "https://windowsfreak.github.io/Mediathek/MediathekConfig.json",
 	"repositoryUrl": "https://futo.org",
 	"scriptUrl": "./MediathekScript.js",
-	"version": 23,
+	"version": 24,
 	
 	"iconUrl": "./mediathek.png",
 	"id": "da5e25de-1a2d-22df-1612-be89ed1adee6",
