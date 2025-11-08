@@ -5,8 +5,8 @@
 	"authorUrl": "https://8bj.de",
 	"platformUrl":"https://mediathekviewweb.de",
 	
-	"sourceUrl": "https://windowsfreak.github.io/Mediathek/MediathekConfig.json",
-	"repositoryUrl": "https://futo.org",
+	"sourceUrl": "https://grayjay-sources.github.io/grayjay-source-mediathekview/MediathekConfig.json",
+	"repositoryUrl": "https://github.com/grayjay-sources/grayjay-source-mediathekview",
 	"scriptUrl": "./MediathekScript.js",
 	"version": 24,
 	
